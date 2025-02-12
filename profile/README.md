@@ -1,4 +1,4 @@
-## This is the code repository for the security research team at Zhejiang University.
+## This is the code repository for the system security research team of Zhejiang University.
 
 <!--
 
